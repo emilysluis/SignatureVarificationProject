@@ -1,6 +1,11 @@
 ## To do for this project
 
-- [ ] Import offline dataset of Dutch Signatures (Chinese and Online datasets are futher work)
+- [x] Import offline dataset of Dutch Signatures (Chinese and Online datasets are futher work)
+- [ ] Stretch images to correct dimensions
+- [ ] Diff score between images or pieces of images
+- 
+
+
 - [ ] Try SVM Classifier
 - [ ] Try clustering
 - [ ] Try decision tree
